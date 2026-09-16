@@ -20,6 +20,6 @@ name = "Harry"
 print(name)
 print(type(name))
 
-is_completed = True # can also be False
+is_completed = True  # can also be False
 print(is_completed)
 print(type(is_completed))
